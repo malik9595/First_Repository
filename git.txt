@@ -1,0 +1,11 @@
+git int
+git add
+git commit -m 'this is message'
+
+git branch
+git branch branchName
+git checkout branchName
+
+git checkout -b branchName
+
+git pull
